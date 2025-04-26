@@ -30,7 +30,9 @@ import {
     imgBrainwave,
     imgModern,
     imgComfyStore,
-    imgCarHub
+    imgCarHub,
+    imgOkoNaPokoj,
+    imgSatinPhoto
   } from "../assets";
   
   export const navLinks = [
@@ -328,6 +330,48 @@ import {
       image: imgCarHub,
       source_code_link: "https://github.com/Kamilhc1125/app-car-hub",
       link: "https://app-car-hub.netlify.app/"
+    },
+    {
+      name: "Eye on the Room",
+      description:
+        "A modern portfolio website for a professional real estate photographer specializing in capturing stunning photos of flats and apartments for rent.",
+      tags: [
+        {
+          name: "wordpress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imgOkoNaPokoj,
+      link: "https://okonapokoj.pl/"
+    },
+    {
+      name: "Satin Photo",
+      description:
+        "A beautifully designed website for a professional photographer capturing unforgettable moments at weddings and other special ceremonies.",
+      tags: [
+        {
+          name: "wordpress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imgSatinPhoto,
+      link: "https://www.satinphoto.com/"
     },
   ];
   

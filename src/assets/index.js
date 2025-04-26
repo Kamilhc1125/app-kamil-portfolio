@@ -38,6 +38,8 @@ import imgBrainwave from "./projects/app-brainwave.png";
 import imgModern from "./projects/app-modern.png";
 import imgComfyStore from "./projects/app-comfy-store.png";
 import imgCarHub from "./projects/app-car-hub.png";
+import imgOkoNaPokoj from "./projects/app-oko-na-pokoj.png";
+import imgSatinPhoto from "./projects/app-satin-photo.png";
 
 import imgKamil from "./kamil-photo.jpg";
 
@@ -78,5 +80,7 @@ export {
   imgModern,
   imgComfyStore,
   imgCarHub,
+  imgOkoNaPokoj,
+  imgSatinPhoto,
   imgKamil
 };
