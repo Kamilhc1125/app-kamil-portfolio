@@ -24,6 +24,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import wordpress from "./tech/wordpress.png";
 import sql from "./tech/sql.png";
+import firebase from "./tech/firebase.png";
 
 import euronet from "./company/euronet.png";
 import teleperformance from "./company/teleperformance.png";
@@ -75,6 +76,7 @@ export {
   tripguide,
   wordpress,
   sql,
+  firebase,
   imgSweatHardcore,
   imgVikiPortfolio,
   imgBrainwave,

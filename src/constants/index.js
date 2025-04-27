@@ -25,6 +25,7 @@ import {
     teleperformance,
     wordpress,
     sql,
+    firebase,
     imgSweatHardcore,
     imgVikiPortfolio,
     imgBrainwave,
@@ -116,6 +117,10 @@ import {
       icon: daisyui,
     },
     {
+      name: "Firebase",
+      icon: firebase,
+    },
+    {
       name: "SQL",
       icon: sql,
     },
@@ -191,17 +196,6 @@ import {
       ],
     },
   ];
-  
-
-
-
-
-
-
-
-
-
-
 
   const projects = [
     {
@@ -377,7 +371,7 @@ import {
     {
       name: "Contact Form",
       description:
-        "A beautifully designed website for a professional photographer capturing unforgettable moments at weddings and other special ceremonies.",
+        "This website is designed to make it easy for customers to contact us. Simply fill out the form, and we'll respond quickly to help with your questions, feedback, or support needs.",
       tags: [
         {
           name: "wordpress",
