@@ -40,6 +40,7 @@ import imgComfyStore from "./projects/app-comfy-store.png";
 import imgCarHub from "./projects/app-car-hub.png";
 import imgOkoNaPokoj from "./projects/app-oko-na-pokoj.png";
 import imgSatinPhoto from "./projects/app-satin-photo.png";
+import imgContactForm from "./projects/app-contact-form.png";
 
 import imgKamil from "./kamil-photo.jpg";
 
@@ -82,5 +83,6 @@ export {
   imgCarHub,
   imgOkoNaPokoj,
   imgSatinPhoto,
+  imgContactForm,
   imgKamil
 };

@@ -32,7 +32,8 @@ import {
     imgComfyStore,
     imgCarHub,
     imgOkoNaPokoj,
-    imgSatinPhoto
+    imgSatinPhoto,
+    imgContactForm
   } from "../assets";
   
   export const navLinks = [
@@ -372,6 +373,31 @@ import {
       ],
       image: imgSatinPhoto,
       link: "https://www.satinphoto.com/"
+    },
+    {
+      name: "Contact Form",
+      description:
+        "A beautifully designed website for a professional photographer capturing unforgettable moments at weddings and other special ceremonies.",
+      tags: [
+        {
+          name: "wordpress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imgContactForm,
+      link: "https://contacteuronetworldwide.com/"
     },
   ];
   
