@@ -328,27 +328,6 @@ import {
       link: "https://app-car-hub.netlify.app/"
     },
     {
-      name: "Eye on the Room",
-      description:
-        "A modern portfolio website for a professional real estate photographer specializing in capturing stunning photos of flats and apartments for rent.",
-      tags: [
-        {
-          name: "wordpress",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mysql",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: imgOkoNaPokoj,
-      link: "https://okonapokoj.pl/"
-    },
-    {
       name: "Firebase Notes",
       description:
         "A lightweight microservice for storing and managing user notes in a Firebase database, enabling seamless real-time data synchronization and secure access.",
@@ -368,6 +347,27 @@ import {
       ],
       image: imgFirebaseNotes,
       source_code_link: "https://github.com/Kamilhc1125/app-vite-firebase-notes",
+      link: "https://app-firebase-notes.netlify.app/"
+    },
+    {
+      name: "Eye on the Room",
+      description:
+        "A modern portfolio website for a professional real estate photographer specializing in capturing stunning photos of flats and apartments for rent.",
+      tags: [
+        {
+          name: "wordpress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imgOkoNaPokoj,
       link: "https://okonapokoj.pl/"
     },
     {
