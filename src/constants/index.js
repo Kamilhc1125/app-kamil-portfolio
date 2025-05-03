@@ -34,7 +34,8 @@ import {
     imgCarHub,
     imgOkoNaPokoj,
     imgSatinPhoto,
-    imgContactForm
+    imgContactForm,
+    imgFirebaseNotes
   } from "../assets";
   
   export const navLinks = [
@@ -345,6 +346,28 @@ import {
         },
       ],
       image: imgOkoNaPokoj,
+      link: "https://okonapokoj.pl/"
+    },
+    {
+      name: "Firebase Notes",
+      description:
+        "A lightweight microservice for storing and managing user notes in a Firebase database, enabling seamless real-time data synchronization and secure access.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imgFirebaseNotes,
+      source_code_link: "https://github.com/Kamilhc1125/app-vite-firebase-notes",
       link: "https://okonapokoj.pl/"
     },
     {
