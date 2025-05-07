@@ -43,6 +43,7 @@ import imgOkoNaPokoj from "./projects/app-oko-na-pokoj.png";
 import imgSatinPhoto from "./projects/app-satin-photo.png";
 import imgContactForm from "./projects/app-contact-form.png";
 import imgFirebaseNotes from "./projects/app-firebase-notes.png";
+import imgSensifizjo from "./projects/app-sensifizjo.png";
 
 import imgKamil from "./kamil-photo.jpg";
 
@@ -88,5 +89,6 @@ export {
   imgSatinPhoto,
   imgContactForm,
   imgFirebaseNotes,
+  imgSensifizjo,
   imgKamil
 };

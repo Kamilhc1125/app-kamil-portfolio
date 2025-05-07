@@ -35,7 +35,8 @@ import {
     imgOkoNaPokoj,
     imgSatinPhoto,
     imgContactForm,
-    imgFirebaseNotes
+    imgFirebaseNotes,
+    imgSensifizjo
   } from "../assets";
   
   export const navLinks = [
@@ -415,6 +416,31 @@ import {
       ],
       image: imgContactForm,
       link: "https://contacteuronetworldwide.com/"
+    },
+    {
+      name: "Sensifizjo",
+      description:
+        "This website is designed to make it easy for parents and caregivers to connect with us. Simply fill out the form, and we'll respond promptly to  any questions.",
+      tags: [
+        {
+          name: "wordpress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "elementor",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imgSensifizjo,
+      link: "https://sensifizjo.kamil-malaszewicz.online/"
     },
   ];
   
