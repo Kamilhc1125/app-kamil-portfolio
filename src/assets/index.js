@@ -44,6 +44,7 @@ import imgSatinPhoto from "./projects/app-satin-photo.png";
 import imgContactForm from "./projects/app-contact-form.png";
 import imgFirebaseNotes from "./projects/app-firebase-notes.png";
 import imgSensifizjo from "./projects/app-sensifizjo.png";
+import imgCrud from "./projects/app-crud.png";
 
 import imgKamil from "./kamil-photo.jpg";
 
@@ -90,5 +91,6 @@ export {
   imgContactForm,
   imgFirebaseNotes,
   imgSensifizjo,
+  imgCrud,
   imgKamil
 };
