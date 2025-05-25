@@ -37,7 +37,8 @@ import {
   imgContactForm,
   imgFirebaseNotes,
   imgSensifizjo,
-  imgCrud
+  imgCrud,
+  imgWeather
 } from "../assets";
 
 export const navLinks = [
@@ -468,6 +469,32 @@ const projects = [
     image: imgCrud,
     source_code_link: "https://github.com/Kamilhc1125/app-crud-frontend",
     link: "https://app-crud-frontend.netlify.app"
+  },
+  {
+    name: "Weather App",
+    description:
+      "This app provides real-time weather information using the OpenWeather API. Users can view current conditions, 5-day forecasts, and location-based data through a clean, responsive interface.",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "shadcn",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: imgWeather,
+    source_code_link: "https://github.com/Kamilhc1125/app-vite-weather",
+    link: "https://app-vite-weather.netlify.app/"
   },
 ];
 
