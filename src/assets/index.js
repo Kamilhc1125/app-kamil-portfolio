@@ -46,6 +46,7 @@ import imgFirebaseNotes from "./projects/app-firebase-notes.png";
 import imgSensifizjo from "./projects/app-sensifizjo.png";
 import imgCrud from "./projects/app-crud.png";
 import imgWeather from "./projects/app-weather.png";
+import imgMovies from "./projects/app-movies.png";
 
 import imgKamil from "./kamil-photo.jpg";
 
@@ -94,5 +95,6 @@ export {
   imgSensifizjo,
   imgCrud,
   imgWeather,
+  imgMovies,
   imgKamil
 };

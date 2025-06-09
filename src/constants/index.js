@@ -38,7 +38,8 @@ import {
   imgFirebaseNotes,
   imgSensifizjo,
   imgCrud,
-  imgWeather
+  imgWeather,
+  imgMovies
 } from "../assets";
 
 export const navLinks = [
@@ -495,6 +496,28 @@ const projects = [
     image: imgWeather,
     source_code_link: "https://github.com/Kamilhc1125/app-vite-weather",
     link: "https://app-vite-weather.netlify.app/"
+  },
+  {
+    name: "Movies App",
+    description:
+      "This app lets users explore and bookmark movies through a clean, responsive interface. It features categorized listings, detailed movie info, and dynamic interactions for an engaging viewing experience.",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "router",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "material ui",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: imgMovies,
+    source_code_link: "https://github.com/Kamilhc1125/app-react-movies",
+    link: "https://app-movies.netlify.app/"
   },
 ];
 
