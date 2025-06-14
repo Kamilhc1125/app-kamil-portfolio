@@ -499,9 +499,9 @@ const projects = [
     link: "https://app-vite-weather.netlify.app/"
   },
   {
-    name: "Pokemon SQL AI",
+    name: "Movies App",
     description:
-      "This app allows users to explore and interact with Pokémon data through a sleek, responsive interface. Leveraging OpenAI's natural language capabilities, users can ask questions, search, and discover Pokémon details dynamically.",
+      "This app lets users explore and bookmark movies through a clean, responsive interface. It features categorized listings, detailed movie info, and dynamic interactions for an engaging viewing experience.",
     tags: [
       {
         name: "typescript",
@@ -521,9 +521,9 @@ const projects = [
     link: "https://app-movies.netlify.app/"
   },
   {
-    name: "Movies App",
+    name: "Pokemon SQL AI",
     description:
-      "This app lets users explore and bookmark movies through a clean, responsive interface. It features categorized listings, detailed movie info, and dynamic interactions for an engaging viewing experience.",
+      "This app allows users to explore and interact with Pokémon data through a sleek interface. Leveraging OpenAI's natural language capabilities, users can ask questions, search, and discover Pokémon details.",
     tags: [
       {
         name: "react",
