@@ -39,7 +39,8 @@ import {
   imgSensifizjo,
   imgCrud,
   imgWeather,
-  imgMovies
+  imgMovies,
+  imgPokemon
 } from "../assets";
 
 export const navLinks = [
@@ -235,7 +236,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "nodejs",
+        name: "node",
         color: "green-text-gradient",
       },
       {
@@ -518,6 +519,36 @@ const projects = [
     image: imgMovies,
     source_code_link: "https://github.com/Kamilhc1125/app-react-movies",
     link: "https://app-movies.netlify.app/"
+  },
+  {
+    name: "Movies App",
+    description:
+      "This app lets users explore and bookmark movies through a clean, responsive interface. It features categorized listings, detailed movie info, and dynamic interactions for an engaging viewing experience.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node",
+        color: "green-text-gradient",
+      },
+      {
+        name: "sql",
+        color: "green-text-gradient",
+      },
+      {
+        name: "openai",
+        color: "green-text-gradient",
+      },
+      {
+        name: "flowbite",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: imgPokemon,
+    source_code_link: "https://github.com/Kamilhc1125/app-vite-pokemon-ai",
+    link: "https://app-pokemon-ai.netlify.app/"
   },
 ];
 

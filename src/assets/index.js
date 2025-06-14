@@ -47,6 +47,7 @@ import imgSensifizjo from "./projects/app-sensifizjo.png";
 import imgCrud from "./projects/app-crud.png";
 import imgWeather from "./projects/app-weather.png";
 import imgMovies from "./projects/app-movies.png";
+import imgPokemon from "./projects/app-pokemon.png"
 
 import imgKamil from "./kamil-photo.jpg";
 
@@ -96,5 +97,6 @@ export {
   imgCrud,
   imgWeather,
   imgMovies,
+  imgPokemon,
   imgKamil
 };
